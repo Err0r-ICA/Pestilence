@@ -2,6 +2,7 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/Err0r-ICA/Pestilence/issues)
 [![HitCount](http://hits.dwyl.com/Err0r-ICA/Pestilence.svg)](http://hits.dwyl.com/Err0r-ICA/Pestilence)
+[![GitHub stars](https://img.shields.io/github/stars/Err0r-ICA/Pestilence.svg?style=social&label=Star&maxAge=2592000)]
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
