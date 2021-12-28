@@ -15,13 +15,13 @@ Explain the problem and include additional details to help maintainers reproduce
 * Include system information (Python version, OS version, etc.).
 * Explain which behaviour you expected to see instead and why.
 
-**DO NOT** open bugs for malware not executing unless you are confident that the file itself is broken. Some malware won't run in virtualisation, some have anti debugging and some are DLLs. We can always recommend more information on the topic such as [this wonderful book](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting). But `theZoo`'s bug tracking system is not a support channel.   
+**DO NOT** open bugs for malware not executing unless you are confident that the file itself is broken. Some malware won't run in virtualisation, some have anti debugging and some are DLLs. We can always recommend more information on the topic such as [this wonderful book](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting). But `Pestilence`'s bug tracking system is not a support channel.   
 
 ### Requesting Samples
-If a particular sample is of interest to you and it cannot be find the `theZoo` kindly [send an email to](mailto:thezoo+codeofconduct@morirt.com). Please do **not** open up an bug/feature request for a sample. We will attempt to upload that sample in the next batch.
+If a particular sample is of interest to you and it cannot be find the `Pestilence` kindly [send an email to](mailto:thezoo+codeofconduct@morirt.com). Please do **not** open up an bug/feature request for a sample. We will attempt to upload that sample in the next batch.
 
 ### Database Contributions
-Please see `prep_file.py` to assist you in creating the directory you need. However, this will not fill out the database. You can use any of the SQLite3 editors out there to add it to the database [`conf/maldb.db`]. Make sure you are accurate about your description, tags and info. The reliability and accuracy of the database is the main purpose for the existence of `theZoo`. Without a credible database this is just another malware dump.
+Please see `prep_file.py` to assist you in creating the directory you need. However, this will not fill out the database. You can use any of the SQLite3 editors out there to add it to the database [`conf/maldb.db`]. Make sure you are accurate about your description, tags and info. The reliability and accuracy of the database is the main purpose for the existence of `Pestilence`. Without a credible database this is just another malware dump.
 
 Edit the database and remember that file paths are case sensitive.  
 
