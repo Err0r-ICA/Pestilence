@@ -7,6 +7,9 @@
 
 ![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
 
+## Screenshot 
+![Screenshot](https://i.postimg.cc/4Z9W4MDg/Screenshot-2021-12-28-19-00-03-89-84d3000e3f4017145260f7618db1d683.jpg)
+
 Pestilence is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
 Pestilence was born by Err0r_HB and is now maintained by Hackboyz Team.
 
