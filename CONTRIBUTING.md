@@ -1,4 +1,4 @@
-# Contributing to theZoo
+# Contributing to Pestilence
 
 First off, thank you for taking the time to contribute to `Pestilence`.
 
