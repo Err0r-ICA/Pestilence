@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within the [theZoo](https://www.github.com/ytisf/theZoo/) community, as well as steps to reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the [Pestilence](https://www.github.com/Err0r-ICA/Pestilence/) community, as well as steps to reporting unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.
 
 Our open source community strives to:
 
