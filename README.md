@@ -2,10 +2,9 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/Err0r-ICA/Pestilence/issues)
 [![HitCount](http://hits.dwyl.com/Err0r-ICA/Pestilence.svg)](http://hits.dwyl.com/Err0r-ICA/Pestilence)
-[![GitHub stars](https://img.shields.io/github/stars/Err0r-ICA/Pestilence/.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Err0r-ICA/Pestilence/stargazers/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-![Logo](https://github.com/Err0r-ICA/Pestilence/raw/gh-pages/MalDB-Logo-Thumb.png)
+![Logo](https://github.com//raw/gh-pages/ytisf/theZoo/MalDB-Logo-Thumb.png)
 
 Pestilence is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
 Pestilence was born by Err0r_HB and is now maintained by Hackboyz Team.
