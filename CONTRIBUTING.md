@@ -1,6 +1,6 @@
 # Contributing to theZoo
 
-First off, thank you for taking the time to contribute to `theZoo`.
+First off, thank you for taking the time to contribute to `Pestilence`.
 
 The following is a set of guidelines as how to contribute, be it by Pull requests or by opening tickets and raising issues. Use your best judgment and feel free to propose changes to this document as well.
 
