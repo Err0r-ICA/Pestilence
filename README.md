@@ -36,7 +36,7 @@ pip install --user -r requirements.txt
 
 Start by running the console:
 
-`python Pestilence`
+`python2 Pestilence`
 
 
 ## License
