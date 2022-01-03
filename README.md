@@ -1,4 +1,4 @@
-# Pestilence - The Malware Database
+# ☣️ Pestilence ☣️<br>The Malware Database 
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/Err0r-ICA/Pestilence/issues)
 [![HitCount](http://hits.dwyl.com/Err0r-ICA/Pestilence.svg)](http://hits.dwyl.com/Err0r-ICA/Pestilence)
@@ -7,9 +7,10 @@
 
 ![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/4Z9W4MDg/Screenshot-2021-12-28-19-00-03-89-84d3000e3f4017145260f7618db1d683.jpg)
 
+## 📒 Description 📒
 Pestilence is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
 Pestilence was born by Err0r_HB and is now maintained by Hackboyz Team.
 
@@ -17,7 +18,7 @@ Pestilence was born by Err0r_HB and is now maintained by Hackboyz Team.
 
 If you are about to interact with our community please make sure to read our `CODE-OF-CONDUCT.md` prior to doing so. If you plan to contribute, first - thank you. However, do make sure to follow the standards on `CONTRIBUTING.md`.
 
-## Disclaimer
+## ❗ Disclaimer ❗
 Pestilence's purpose is to allow the study of malware and enable people who are interested in malware analysis (or maybe even as a part of their job) to have access to live malware, analyse the ways they operate, and maybe even enable advanced and savvy  people to block specific malware within their own environment.
 
 **Please remember that these are live and dangerous malware! They come encrypted and locked for a reason!  Do NOT run them unless you are absolutely sure of what you are doing! They are to be used only for educational purposes (and we mean that!) !!!**
@@ -34,12 +35,10 @@ cd Pestilence
 pip install --user -r requirements.txt
 ```
 
-Start by running the console:
-
-`python2 Pestilence`
+### Main Input: `python2 Pestilence`
 
 
-## License
+## 🧾 License 🧾
 Pestilence - the most awesome free malware database on the air
 Copyright (C) 2015-2021, Err0r_HB - Hackboyz Team
 
@@ -140,7 +139,7 @@ Get the file you want to submit and just run `python prep_file.py file_tosubmit.
 
 If you have any suggestions or malware that you have indexed (in the manner laid out in the documentation) please send it to us to - Pestilence-submissions [a-t] morirt [.d0t.] com - so we can add it for everyone's enjoyment.
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
