@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Err0r-ICA/Pestilence.svg?style=social&label=Star&maxAge=2592000)]
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
+![Logo](https://i.postimg.cc/2rrgXD8m/OIG4-3.jpg)
 
 ## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/4Z9W4MDg/Screenshot-2021-12-28-19-00-03-89-84d3000e3f4017145260f7618db1d683.jpg)
@@ -139,13 +139,9 @@ Get the file you want to submit and just run `python prep_file.py file_tosubmit.
 
 If you have any suggestions or malware that you have indexed (in the manner laid out in the documentation) please send it to us to - Pestilence-submissions [a-t] morirt [.d0t.] com - so we can add it for everyone's enjoyment.
 
-### 👤 My Accounts 👤
-
-* [TELEGRAM](https://t.me/termuxxhacking)
-
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-
-* [INSTAGRAM](https://instagram.com/termux_hacking)
+### 👤 Connect with me 👤
+<a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://t.me/hacking1337stuff"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
