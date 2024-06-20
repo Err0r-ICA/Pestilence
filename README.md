@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Err0r-ICA/Pestilence.svg?style=social&label=Star&maxAge=2592000)]
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-![Logo](https://i.postimg.cc/2rrgXD8m/OIG4-3.jpg)
+![Logo](https://i.ibb.co/JnLr2CD/OIG4-3.jpg)
 
 ## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/4Z9W4MDg/Screenshot-2021-12-28-19-00-03-89-84d3000e3f4017145260f7618db1d683.jpg)
